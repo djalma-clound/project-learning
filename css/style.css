@@ -1,0 +1,9 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+h1{
+    position: relative;
+    text-align: center;
+    top: 50px;
+}
